@@ -4,7 +4,7 @@ Get chords, beats, lyrics, melody, and tabs for any song.
 
 A transformer-based hybrid multimodal model, various transformer models address different problems in the field of music information retrieval, these models generate corresponding information dependencies that mutually influence each other.
 
-> The online experience, [See the site here](https://lamucal.ai)  
+> The online experience, [See the site here](https://lamucal.com)  
 
 <img src='./image/model.png'  style="width: 950px;" >   
 
@@ -29,10 +29,7 @@ The entire AI-powered process is implemented in `aitabs.py`, while the various n
 
 - **Other**, audio source separation, speed adjustment, pitch shifting, etc.      
 
-For more AI-powered feature experiences, see the [website](https://lamucal.ai): 
+For more AI-powered feature experiences, see the [website](https://lamucal.com): 
 
-<p align="center">
-  <a href="https://lamucal.ai/"><img  height=50 src="image/website.png" alt="Lamucal.ai"></a>
-</p>
 
 
